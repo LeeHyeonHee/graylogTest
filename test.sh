@@ -1,0 +1,1 @@
+echo 'test message' | nc localhost 5555

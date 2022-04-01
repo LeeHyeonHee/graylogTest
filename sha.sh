@@ -1,0 +1,1 @@
+echo -n "" | sha256sum | cut -d" " -f1
